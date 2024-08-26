@@ -31,12 +31,12 @@ const Footer = () => {
                   <a
                     className="text-black font-semibold ml-1"
                     target="_blank"
-                    href="https://travislord.xyz"
+                    href="https://my-portfolio-mu-azure.vercel.app"
                   >
-                    By TL
+                    By Dai Vo
                   </a>
                   <a
-                    href="https://github.com/lilxyzz/holo-theme"
+                    href="https://github.com/DaiHai027/Holo"
                     target="_blank"
                   >
                     <img
