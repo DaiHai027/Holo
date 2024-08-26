@@ -20,7 +20,7 @@ To embark on your development adventure, follow these simple steps:
 
 **Clone this repository**
 
-```git clone https://github.com/lilxyzz/holo-theme.git```
+```git clone https://github.com/DaiHai027/Holo```
 
 **Navigate into the repository**
 
@@ -44,7 +44,7 @@ You're now ready to develop with the speed of Gatsby and the flexibility of Tail
 
 ### Deploying to Netlify
 
-[![Deploy to Netlify ](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lilxyzz/holo-theme)
+[![Deploy to Netlify ](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DaiHai027/Holo)
 
 You could also host directly with Netlify by linking your own repository.
 For more information, read [hosting on Netlify](https://docs.netlify.com/get-started/).
